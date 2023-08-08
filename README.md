@@ -1,4 +1,4 @@
-# Movie_Recommendation_System
+#MVR
 This is a  content-based recommender system that recommends movies similar to the movie the user likes and analyses the reviews given by the user.In this project, machine learning methods will be used to create a Movie Recommendation System. From a user’s perspective, they are catered to fulfill the user’s needs in the shortest time possible.From an organization’s perspective, they want to keep the user as long as possible on the platform so that it will generate the most possible profit for them. With better recommendations, it creates positive feedback from the user as well. 
 
 
